@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sy-zk-edu-web:war">
+    <output-path>$PROJECT_DIR$/sy-zk-edu-web/target</output-path>
+    <root id="archive" name="edu.war">
+      <element id="artifact" artifact-name="sy-zk-edu-web:war exploded" />
+    </root>
+  </artifact>
+</component>
